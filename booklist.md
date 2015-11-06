@@ -2,9 +2,6 @@
 
 本文主要介绍一些通识读本和一些专业入门书，因此本文介绍的书有两个特点，浅和全。浅和全都是相对的。看完费曼物理讲义，你可以宣称你比全世界95%的人都懂物理，但费曼物理讲义毕竟还是普通物理。本人兴趣精力经验有限，无以做到太全，欢迎评论“竟然没有XXX”。前言太长，放在最后。
 
-####How To Read A Book: A Classic Guide to Intelligent Reading
-和[编程随想](https://github.com/programthink/books)一样，我把这本书放在了[第一](https://onedrive.live.com/?id=F5B0090663FEEADA!828&cid=F5B0090663FEEADA&group=0)。你以为你真的懂你以为你懂的吗？参见[《如何阅读一本书》读书笔记](http://www.zhihu.com/question/20631409/answer/16758482)。类似的关于文学的还有如何阅读一本小说和如何读，为什么读。
-
 
 Table of Contents
 
@@ -384,6 +381,17 @@ Table of Contents
         * [共和国教科书](#共和国教科书)
   * [前言](#前言)
 
+
+#列表开始
+
+####How To Read A Book: A Classic Guide to Intelligent Reading
+和[编程随想](https://github.com/programthink/books)一样，我把这本书放在了[第一](https://onedrive.live.com/?id=F5B0090663FEEADA!828&cid=F5B0090663FEEADA&group=0)。
+
+
+----------
+
+
+你以为你真的懂你以为你懂的吗？参见[《如何阅读一本书》读书笔记](http://www.zhihu.com/question/20631409/answer/16758482)。类似的关于文学的还有如何阅读一本小说和如何读，为什么读。
 ## 常识
 这个宇宙还有比中国人更缺常识的吗？“小草有生命，脚下请留情”，“来也匆匆，去也冲冲”，“请随手关门”。还有多少常识需要这么广泛这么密集地到处宣传？常识还应该有新闻联播所谓的“[螳臂当车的歹徒](https://www.youtube.com/watch?v=HAUo4kBkTvU)”以及新华社所谓的“[一党独裁，遍地是灾](http://blog.sina.com.cn/s/blog_4ef816ff0102duzo.html)”。
 
