@@ -4,9 +4,16 @@
 
 
 Table of Contents
+=================
 
-        * [How To Read A Book: A Classic Guide to Intelligent Reading](#how-to-read-a-book-a-classic-guide-to-intelligent-reading)
+  * [列表开始](#列表开始)
     * [常识](#常识)
+      * [其他常识](#其他常识)
+        * [How To Read A Book: A Classic Guide to Intelligent Reading](#how-to-read-a-book-a-classic-guide-to-intelligent-reading)
+        * [The Western Canon](#the-western-canon)
+        * [为什么读经典](#为什么读经典)
+        * [学会提问](#学会提问)
+        * [罗伯特议事规则](#罗伯特议事规则)
       * [别个国家的常识](#别个国家的常识)
         * [常识](#常识-1)
         * [劝学篇](#劝学篇)
@@ -33,11 +40,6 @@ Table of Contents
       * [科学常识](#科学常识)
         * [魔鬼出没的世界](#魔鬼出没的世界)
         * [对“伪心理学”说不](#对伪心理学说不)
-      * [其他常识](#其他常识)
-        * [The Western Canon](#the-western-canon)
-        * [为什么读经典](#为什么读经典)
-        * [学会提问](#学会提问)
-        * [罗伯特议事规则](#罗伯特议事规则)
     * [科学](#科学)
       * [总论](#总论)
         * [A Short History of Nearly Everything](#a-short-history-of-nearly-everything)
@@ -384,16 +386,16 @@ Table of Contents
 
 #列表开始
 
-####How To Read A Book: A Classic Guide to Intelligent Reading
-和[编程随想](https://github.com/programthink/books)一样，我把这本书放在了[第一](https://onedrive.live.com/?id=F5B0090663FEEADA!828&cid=F5B0090663FEEADA&group=0)。
-
-
-----------
-
-
-你以为你真的懂你以为你懂的吗？参见[《如何阅读一本书》读书笔记](http://www.zhihu.com/question/20631409/answer/16758482)。类似的关于文学的还有如何阅读一本小说和如何读，为什么读。
 ## 常识
 这个宇宙还有比中国人更缺常识的吗？“小草有生命，脚下请留情”，“来也匆匆，去也冲冲”，“请随手关门”。还有多少常识需要这么广泛这么密集地到处宣传？常识还应该有新闻联播所谓的“[螳臂当车的歹徒](https://www.youtube.com/watch?v=HAUo4kBkTvU)”以及新华社所谓的“[一党独裁，遍地是灾](http://blog.sina.com.cn/s/blog_4ef816ff0102duzo.html)”。
+
+###其他常识
+####How To Read A Book: A Classic Guide to Intelligent Reading
+和[编程随想](https://github.com/programthink/books)一样，我把这本书放在了[第一](https://onedrive.live.com/?id=F5B0090663FEEADA!828&cid=F5B0090663FEEADA&group=0)。你以为你真的懂你以为你懂的吗？参见[《如何阅读一本书》读书笔记](http://www.zhihu.com/question/20631409/answer/16758482)。类似的关于文学的还有如何阅读一本小说和如何读，为什么读。
+####The Western Canon
+####为什么读经典
+####学会提问
+####罗伯特议事规则
 
 ###别个国家的常识
 “国家为人而立，而非人为国家而活。国家的最高使命是保护个人，使其有机会发展成为有创造才能的人。”——爱因斯坦
@@ -499,11 +501,7 @@ Table of Contents
 ####对“伪心理学”说不
 原名How to Think Straight about Psychology。不同版本的译名不同，还有叫与众不同的心理学。题目应该为，对“伪科学”说不。很明显作者各方面的修养很高，译者就不然了。有一些物理方面的东西翻译出来很怪异。
 
-###其他常识
-####The Western Canon
-####为什么读经典
-####学会提问
-####罗伯特议事规则
+
 
 ##科学
 ###总论
